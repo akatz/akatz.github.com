@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Akatz.github.com by akatz</title>
+    <title>akatz.github.com by akatz</title>
 
     <link rel="stylesheet" href="/stylesheets/styles.css">
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
@@ -20,7 +20,7 @@
         <p class="view"><a href="https://github.com/akatz">View My GitHub Profile</a></p>
       </header>
       <section>
-      <h2> {{ page.title }} </h2>
+      <h2>{{ page.date | date_to_string }}</span> &raquo; <a href="{{ page.url }}">{{ page.title }}</a></h2>
       {{ content }}
       <small>Written by {{ page.author }}</small>
       </section>
