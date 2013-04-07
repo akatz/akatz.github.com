@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My New Blog
+author: Avrohom Katz
 ---
 
 Getting my blog off the ground has taken me way too long. I have owned the domain for over 2 years but have just put it off for far too long.
