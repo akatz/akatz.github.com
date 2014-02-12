@@ -1,0 +1,15 @@
+---
+layout: post
+title: Git Talk
+author: Avrohom Katz (@akatz)
+---
+
+While playing along with the strip CTF this year I got a lot of
+experience with low level git object. This made me extremely curious
+about it. While I had a somewhat extensive understanding of git, I was
+missing some crucial connections. 
+
+I recently had a lot of time on a flight with no internet connection,
+and discovered all of the git documentation which I slowly pored over.
+Here is the resulting [slide deck]({{ site.url }}/assets/slides) I put together to demonstrate how
+things work.
