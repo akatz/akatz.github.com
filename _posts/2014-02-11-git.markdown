@@ -4,7 +4,7 @@ title: Git Talk
 author: Avrohom Katz (@akatz)
 ---
 
-While playing along with the strip CTF this year I got a lot of
+While playing along with the [stripe CTF](https://stripe-ctf.com/) this year I got a lot of
 experience with low level git objects. This made me extremely curious
 about it. While I had a somewhat extensive understanding of git, I was
 missing some crucial connections. 
